@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+ul, ol{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    vertical-align: middle;
+}
+
+h1,h2,h3,h4,h5,h6,li,p,div{
+    margin: 0;
+    padding: 0;
+}
+
+
+:root{
+    --poppins:'Poppins', sans-serif;
+    --manrope:'Manrope', sans-serif;
+}
+
+
+
