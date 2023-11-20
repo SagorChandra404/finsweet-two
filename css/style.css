@@ -82,3 +82,37 @@ h1,h2,h3,h4,h5,h6,li,p,div{
 }
 
 /*==============Navbar-part-end==============*/
+
+
+
+/*==============about-part-Start==============*/
+
+#about-part{
+    padding: 128px 0;
+}
+
+#about-part .about-text h5{
+    color: #282938;
+    font-family: var(--poppins);
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 8px;
+}
+
+#about-part .about-text h1{
+    color: #282938;
+    font-family: var(--poppins);
+    font-size: 54px;
+    font-weight: 600;
+    padding-bottom: 32px;
+}
+
+#about-part .about-text p{
+    color:#282938;
+    font-family: var(--poppins);
+    font-size: 16px;
+    font-weight: 400;
+    padding-right: 27px;
+}
+
+/*==============about-part-end==============*/
