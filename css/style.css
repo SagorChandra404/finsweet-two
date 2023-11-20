@@ -36,3 +36,49 @@ h1,h2,h3,h4,h5,h6,li,p,div{
 
 
 
+/*==============Navbar-part-start==============*/
+#navbar-part{
+    padding: 32px 0;
+    background: #1C1E53;
+}
+
+#navbar-part .custom_navbar ul{
+    align-items: center;
+}
+
+
+#navbar-part .custom_navbar ul li a{
+    color: #BBBBCB;
+    font-family: var(--poppins);
+    font-size: 16px;
+    font-weight: 500;
+    padding-right: 28px;
+    transition: all linear 0.3s;
+}
+
+#navbar-part .custom_navbar ul li a:hover{
+    color: #FFF;
+}
+
+#navbar-part .custom_navbar .contact_btn{
+    padding-left: 35px;
+}
+
+#navbar-part .custom_navbar .contact_btn a button{
+    color: #FFF;
+    font-family:var(--poppins);
+    font-size: 16px;
+    font-weight: 500;
+    border: none;
+    background: transparent;
+    padding: 16px 48px;
+    border-radius: 41px;
+    border: 2px solid rgba(244, 246, 252, 0.20);
+}
+
+#navbar-part .custom_navbar .contact_btn a button:hover{
+    background: #FFF;
+    color: #1C1E53;
+}
+
+/*==============Navbar-part-end==============*/
