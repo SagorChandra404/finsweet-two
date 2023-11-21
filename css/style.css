@@ -116,3 +116,62 @@ h1,h2,h3,h4,h5,h6,li,p,div{
 }
 
 /*==============about-part-end==============*/
+
+
+
+
+/*==============Who-we-are-part-end==============*/
+
+#who_we_are-part .title-text h5{
+    padding-left: 73px;
+}
+#who_we_are-part .title-text h5{
+    color:  #282938;
+    font-family: var(--poppins);
+    font-size: 16px;
+    font-weight: 500;
+    padding-bottom: 4px;
+}
+
+#who_we_are-part .bg_colors{
+    background: #F4F5F5;
+    padding: 80px 0;
+}
+
+#who_we_are-part .goal-text h2{
+    color: #282938;
+    font-family: var(--poppins);
+    font-size: 38px;
+    font-weight: 600;
+}
+#who_we_are-part .goal-text p{
+    color:  #282938;
+    font-family: var(--poppins);
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 16px;
+    opacity: 0.7;
+
+}
+
+#who_we_are-part .improvement-text h2{
+    color: #282938;
+    font-family: var(--poppins);
+    font-size: 38px;
+    font-weight: 600;
+}
+
+#who_we_are-part .improvement-text p{
+    color:  #282938;
+    font-family: var(--poppins);
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 16px;
+    opacity: 0.7;
+}
+
+
+
+
+
+/*==============Who-we-are-part-end==============*/
