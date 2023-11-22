@@ -231,3 +231,95 @@ h1,h2,h3,h4,h5,h6,li,p,div{
 
 
 /*==============process-part-end==============*/
+
+
+
+/*==============Mission-part-start==============*/
+
+#our-mission-part{
+    padding: 128px 0;
+    background: #EEF4FA;
+}
+
+#our-mission-part .our-mission-text{
+    padding-top: 54px;
+}
+
+#our-mission-part .our-mission-text h5{
+    color:  #282938;
+    font-family: var(--poppins);
+    font-size: 16px;
+    font-weight: 500;
+    padding-bottom: 16px;
+}
+
+#our-mission-part .our-mission-text h2{
+    color:  #282938;
+    font-family: var(--poppins);
+    font-size: 38px;
+    font-weight: 600;
+    padding-bottom: 16px;
+}
+
+#our-mission-part .our-mission-text p{
+    color:  #282938;
+    font-family: var(--poppins);
+    font-size: 16px;
+    font-weight: 400;
+    padding-right: 5px;
+}
+
+#our-mission-part .our-vision-image{
+    padding-top: 96px;
+}
+
+#our-mission-part  .our-vision-text{
+    padding-top: 149px;
+}
+
+#our-mission-part  .our-vision-text h5{
+    color:  #282938;
+    font-family: var(--poppins);
+    font-size: 16px;
+    font-weight: 500;
+    padding-bottom: 16px;
+}
+
+#our-mission-part  .our-vision-text h2{
+    color:  #282938;
+    font-family: var(--poppins);
+    font-size: 38px;
+    font-weight: 600;
+    padding-bottom: 16px;
+}
+
+#our-mission-part  .our-vision-text p{
+    color:  #282938;
+    font-family: var(--poppins);
+    font-size: 16px;
+    font-weight: 400;
+    padding-right: 5px;
+}
+
+
+/*==============Mission-part-end==============*/
+
+
+
+/*==============benefits-part-start==============*/
+#benefits-part{
+    padding: 128px 0;
+}
+#benefits-part  .benefits-title{
+    padding: 0px;
+}
+
+#benefits-part  .benefits-title h2{
+    color: #282938;
+    font-family: var(--poppins);
+    font-size: 48px;
+    font-weight: 600;
+} 
+
+
+/*==============benefits-part-end==============*/
