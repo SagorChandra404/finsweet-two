@@ -175,3 +175,59 @@ h1,h2,h3,h4,h5,h6,li,p,div{
 
 
 /*==============Who-we-are-part-end==============*/
+
+
+
+/*==============process-part-start==============*/
+#process-part{
+    padding: 128px 0;
+}
+#process-part .process-title{
+    margin-bottom: 50px;
+}
+#process-part .process-title h2{
+    color:  #282938;
+    font-family: var(--poppins);
+    font-size: 48px;
+    font-weight: 600;
+} 
+
+#process-part .process-contant .dot-line span{
+    position: relative;
+}
+
+#process-part .process-contant .dot-line span::after{
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background-color: #2405F2;
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+} 
+
+
+#process-part .process-contant .dot-line picture{
+    margin-left: 45px;
+}
+
+#process-part .process-contant h4{
+    color:  #282938;
+    font-family: var(--poppins);
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 32px;
+}
+
+#process-part .process-contant p{
+    color:  #282938;
+    font-family: var(--poppins);
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    padding-top: 10px;
+}
+
+
+/*==============process-part-end==============*/
