@@ -311,7 +311,7 @@ h1,h2,h3,h4,h5,h6,li,p,div{
     padding: 128px 0;
 }
 #benefits-part  .benefits-title{
-    padding: 0px;
+    padding-bottom: 48px;
 }
 
 #benefits-part  .benefits-title h2{
@@ -319,7 +319,63 @@ h1,h2,h3,h4,h5,h6,li,p,div{
     font-family: var(--poppins);
     font-size: 48px;
     font-weight: 600;
-} 
+}
+
+
+#benefits-part .box-all{
+    background:  #F4F6FC;
+    width: 405px;
+    height: 316px;
+
+}
+
+#benefits-part .box-all:hover{
+    box-shadow: 0px 0px 17px 5px rgba(0,0,0,0.1),0px 10px 15px -3px rgba(0,0,0,0.1);
+}
+
+#benefits-part .box-all .mar-pad-48{
+    padding: 24px;
+}
+
+#benefits-part .box-all .mar-pad-48 h4{
+    color:  #282938;
+    font-family: var(--poppins);
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 26px;
+}
+
+#benefits-part .box-all .mar-pad-48 p{
+    color:  #282938;
+    font-family: var(--poppins);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    padding-top: 12px;
+    opacity: 0.7;
+}
+#benefits-part .fin-Users{
+    padding-top: 48px;
+}
+
+#benefits-part .fin-Users h6{
+    color:  #282938;
+    font-family: var(--poppins);
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    padding-top: 15px;
+
+}
+
+#benefits-part .brand-logo{
+    padding-top: 76px;
+}
+
+
+
+
+
 
 
 /*==============benefits-part-end==============*/
