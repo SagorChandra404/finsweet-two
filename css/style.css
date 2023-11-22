@@ -370,12 +370,80 @@ h1,h2,h3,h4,h5,h6,li,p,div{
 
 #benefits-part .brand-logo{
     padding-top: 76px;
+    margin-left: 49px;
 }
 
 
-
-
-
-
-
 /*==============benefits-part-end==============*/
+
+
+
+/*==============team-part-start==============*/
+#team-part{
+    padding: 128px 0;
+    background: #F4F6FC;
+}
+#team-part .team-title{
+    margin-bottom: 48px;
+}
+#team-part .team-title h2{
+    color:  #282938;
+    font-family: var(--poppins);
+    font-size: 48px;
+    font-weight: 600;
+}
+
+
+#team-part .team-box{
+    width: 296px;
+    height: 344px;
+    background: #FFF;
+    padding: 48px;
+
+}
+#team-part .team-box .team-text {
+    padding-top: 30px;
+}
+#team-part .team-box .team-text h3{
+    color:  #1D2130;
+    font-family: var(--poppins);
+    font-size: 24px;
+    font-weight: 500;
+    padding-bottom: 2px;
+}
+#team-part .team-box .team-text p{
+    color:  #1D2130;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+
+}
+
+#team-part .team-box .overlay{
+    width: 168px;
+    height: 168px;
+    background: linear-gradient(348deg, #5239FA 17.97%, rgba(255, 255, 255, 0.00) 79.2%);
+    border-radius: 50%;
+    top: 48px;
+    left: 63px;
+    opacity: 0;
+
+}
+
+#team-part .team-box:hover .overlay{
+   opacity: 1;
+   transition: all linear 0.3s;
+}
+
+#team-part .team-box .icons {
+    padding-top: 127px;
+    color: #EEF4FA;
+}
+
+#team-part .team-box .icons a{
+    color: #EEF4FA;
+    padding-left: 5px;
+}
+
+/*==============team-part-end==============*/
