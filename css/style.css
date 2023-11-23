@@ -447,3 +447,121 @@ h1,h2,h3,h4,h5,h6,li,p,div{
 }
 
 /*==============team-part-end==============*/
+
+
+
+
+/*==============footer-part-start==============*/
+#footer-part{
+    padding-top: 100px;
+    background: #1C1E53;
+}
+
+#footer-part .footer-left p{
+    color:  #FFF;
+    font-family: var(--poppins);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    opacity: 0.8;
+    padding-right: 70px;
+    margin-top: 22px;
+}
+#footer-part .footer-left .footer-yellow-part{
+    background:  #FCD980;
+    display: flex;
+    width: 517px;
+    height: 90px;
+    align-items: center;
+    column-gap: 30px;
+    padding: 18px 25px;
+    margin-top: 86px;
+
+    
+} 
+
+#footer-part .footer-left .footer-yellow-part .email{
+    padding-top: 18px;
+}
+#footer-part .footer-left .footer-yellow-part .email ul li{
+    color: #282938;
+    font-family: var(--poppins);
+    font-size: 18px;
+    font-weight: 500;
+}
+
+#footer-part .footer-left .footer-yellow-part .email ul li a{
+    color:  #282938;
+    font-family: var(--poppins);
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.8;
+}
+#footer-part .footer-left .footer-yellow-part .phone{
+    padding-top: 18px;
+}
+
+#footer-part .footer-left .footer-yellow-part .phone ul li {
+    color: #282938;
+    font-family: var(--poppins);
+    font-size: 18px;
+    font-weight: 500;
+}
+#footer-part .footer-left .footer-yellow-part .phone ul li a{
+    color:  #282938;
+    font-family: var(--poppins);
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.8;
+}
+
+#footer-part .footer-right h1{
+    color: #FFF;
+    font-family: var(--poppins);
+    font-size: 48px;
+    font-weight: 600;
+}
+
+#footer-part .footer-right p{
+    color:  #F4F6FC;
+    font-family: var(--poppins);
+    font-size: 16px;
+    font-weight: 400;
+    padding-right: 216px;
+    padding-top: 14px;
+
+}
+#footer-part .footer-right .icon{
+    padding-top: 28px;
+}
+
+#footer-part .footer-right .icon a{
+    padding-right: 26px;
+    color: #FFF;
+}
+
+
+
+/*==============footer-part-end==============*/
+
+
+
+/*==============footer-end-part-start==============*/
+
+
+#footer-end .custom_footer p{
+    color: #282938;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+
+} 
+
+#footer-end .custom-footer-nav ul li a{
+    padding-right: 28px;
+    color:  #282938;
+    font-family: var(--poppins);
+    font-size: 16px;
+    font-weight: 500;
+}
+/*==============footer-end-part-end==============*/
